@@ -7,4 +7,4 @@ To change the color, click on the square that follows the mouse. There may be so
 Left mouse button - draw<br>
 Right mouse button - clean
 
-Try it now: 
+Try it now: https://hymokokun.github.io/Drawing-by-cells/
